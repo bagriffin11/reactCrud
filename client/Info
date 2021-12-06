@@ -1,0 +1,6 @@
+npx create-react-app . //creates an app in an already created folder 
+npm install axios  //allows client to respond to the server
+npm install react-router-dom // allow to use multiple pages 
+use es7 snippet to create files for ex: rfce enter makes a function
+npm install formik //when filling out forms it notifies the user if they missed something
+npm install yup //allows you to validate information in a form input

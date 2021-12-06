@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.center { 
+ 
+  position: relative;
+  border: 3px solid green; 
+}
+
+.center p { 
+  height: 200px;
+  margin: 0;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  right: 20%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
