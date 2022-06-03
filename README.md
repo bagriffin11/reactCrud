@@ -1,2 +1,2 @@
 # reactCrud
-compilation of everything learned.
+React frontend, node.js backend, and mysql database.
